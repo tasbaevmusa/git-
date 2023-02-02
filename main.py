@@ -7,3 +7,6 @@ def sqare(a,b):
 
 print(sum(3,7))
 print(sum(2,5))
+
+    # Musa Tasbay
+
